@@ -1,0 +1,1 @@
+Cree la carpeta archivos y cuando intente hacer el commit en Git no me dejaba hacerlo, all parecer no aparece la carpeta vacia que agregue. 
