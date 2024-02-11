@@ -1,3 +1,6 @@
 Emanuel Hoyos 
 Tengo 20
 Quiero aprender los fundamentos basicos de la programacion orientada a objetos y mejorar en JAVA. 
+La carpeta ya no esta vacia por lo que ya hubo un cambio en Github sobre el repositorio y por ello se puede ver un commit
+
+Porque se generan conflictos en Github. 
